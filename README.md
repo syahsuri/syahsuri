@@ -115,8 +115,8 @@ Here are some ideas to get you started:
     
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&layout=compact&theme=radical" alt="My Github Stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahsuri&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=syahsuri&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
 <br> <br>
@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/shreyachatterjee05/">
   <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Shreya549">
+<a href="https://github.com/syahsuri">
   <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/the_strange_concoction/">
@@ -141,7 +141,7 @@ Here are some ideas to get you started:
 <br><br>
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/syahsuri/count.svg)
 
 
 
@@ -163,13 +163,13 @@ Here are some ideas to get you started:
 </table>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical" alt="My Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahsuri&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=syahsuri&&show_icons=true&theme=radical" alt="My Github Stats">
 </p>
-<a href="https://github.com/Shreya549">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
+<a href="https://github.com/syahsuri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahsuri&theme=radical" />
 </a>
-**Shreya549/Shreya549** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**syahsuri/syahsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -184,6 +184,6 @@ Here are some ideas to get you started:
 -->
 
 ----
-Credit: [Shreya549](https://github.com/Shreya549)
+Credit: [syahsuri](https://github.com/syahsuri)
 
 Last Edited on: 23/09/2020
