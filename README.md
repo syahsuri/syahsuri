@@ -1,41 +1,12 @@
-<!-- ### Hi there 👋
+### Hello World, I'm Syuri :purple_heart:
 
-
-**syahsuri/syahsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
-
-### Hello World, I'm Shreya :purple_heart:
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
------
+---
+
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
 ### My skills :woman_technologist:
-- **Competitive Coding**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
 
 - **Web Development**
 <table>
@@ -57,7 +28,6 @@ Here are some ideas to get you started:
 
 </tr>
 
-
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
@@ -77,12 +47,12 @@ Here are some ideas to get you started:
 - **Data Science**
   - Data Visualization
   - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+   <table>
+  <tbody>
+   <tr>
+  <td align="center" width="50%">
+  <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+  </td>
 
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
@@ -92,8 +62,21 @@ Here are some ideas to get you started:
 </table>
 
 ### I'm currently learning :open_book:
+
 - **Competitive Coding**
-    - Dynamic Programming
+   <table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table>
     
 - **Web Development**
 <table>
@@ -109,10 +92,10 @@ Here are some ideas to get you started:
 </tbody>
 </table>
 
- - **Data Science**
-   - Machine Learning
-   - Artificial Intelligence
-    
+- **Data Science**
+  - Machine Learning
+  - Artificial Intelligence
+
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahsuri&layout=compact&theme=radical" alt="My Github Stats">
@@ -120,30 +103,29 @@ Here are some ideas to get you started:
 </p>
 
 <br> <br>
- <a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/shreyaaaaaaaaa_">
+<img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shreyachatterjee05/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/syahsuri">
-  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/shreya.chatterjee.31105674">
-  <img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt="Shreya's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.hackerrank.com/shreyachatterje2">
-  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
 
 #### Thanks for visiting :heart:
+
 ![VisitorCount](https://profile-counter.glitch.me/syahsuri/count.svg)
-
-
 
 <br>
 <br>
@@ -158,10 +140,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-----
+---
+
 Credit: [syahsuri](https://github.com/syahsuri)
 
 Last Edited on: 23/09/2020
